@@ -4,4 +4,4 @@ server:
 
 spring:
   application:
-    name: config-dev-8002
+    name: config-dev-8003
